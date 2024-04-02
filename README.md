@@ -3,11 +3,6 @@
 
 Created the Work Day Scheduler to be more comfortable in using jQuery and localStorage for everyday future applications. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Table of Contents
 
 - [Installation](#installation)
@@ -48,17 +43,18 @@ The following animation demonstrates the acceptance application functionality:
 Requires the use of Web APIs jQuery, Day.js, and also CSS Framework Bootstrap.
 
 ## Usage
-A user has a work day scheduler that has inputs for a 9-5 shift. The user will save inputs with the save icon buttons. The scheduler implements color coded time slots for past, present, and future work tasks in real time. The user work tasks will stay after the web page is refreshed unless user deletes text, and uses the save button to clear the text field.
+A user has a work day scheduler that has inputs for a 9-5 shift. The user will save inputs with the save icon buttons. The scheduler implements color coded time slots for past, present, and future work tasks in real time. The user work tasks will stay after the web page is refreshed unless user deletes text, and uses the save button to clear the text field. 
 
     ```md
-    ![Image of Work Day Scheduler](assets/Workday%20Planner.png)
+  ![Image of Work Day Scheduler](<assets/Workday Planner.png>)
     ```
+- Deployed Link: https://astrange90.github.io/24-7/
 
 ## Credits
 
-UCI Web API  Module
-https://api.jquery.com/
-https://day.js.org/
+- UCI Web API  Module
+- https://api.jquery.com/
+- https://day.js.org/
 
 
 
